@@ -1,0 +1,13 @@
+
+Test 1:
+
+Create a text file called secret_code.txt containing the word 'Cyberpunk2026'
+
+Now read the file you just created and tell me what word is inside it.
+
+Test 2:
+My favorite project codename is ORBIT-7429. Please remember it.
+
+What is my project codename?
+
+Write a short status update about that project.

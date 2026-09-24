@@ -1,0 +1,6 @@
+{
+  "openai_key": "your-openai-api-key",
+  "openai_url": "http://localhost:1234",
+  "anthropic_key": "sk-your-anthropic-key",
+  "anthropic_url": "https://api.anthropic.com/v1"
+}

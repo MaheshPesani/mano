@@ -1,0 +1,13 @@
+/target
+.DS_Store
+
+# Rust
+Cargo.lock
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Env/secrets
+.env

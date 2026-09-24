@@ -1,0 +1,59 @@
+
+
+### **1. Code & File Management**
+- **Create files:** Write new files or update existing ones with specific code, text, or configurations.
+- **Read files:** View the content of files for analysis or modifications.
+- **Update files:** Modify specific parts or complete sections of existing files.
+
+   _Example:_ "Create a Python script to scrape data from a website and save it to a CSV file."
+
+---
+
+### **2. Run Commands on Your System**
+- **Shell commands:** Execute commands for tasks such as checking system settings, running scripts, or inspecting directories/files.
+
+   _Example:_ "Run a bash script to backup my files and log the operation."
+
+---
+
+### **3. Multi-Tool Operations**
+- Perform multiple tasks in parallel, such as combining file creation with shell commands.
+  
+   _Example:_ "Write a JavaScript program and immediately execute it to test functionality."
+
+---
+
+### **4. Debugging & Error Analysis**
+- Check code syntax and logic by examining files for errors or specific issues.
+  
+   _Example:_ "Read a file containing code and verify why it is throwing errors."
+
+---
+
+### **5. Data Operations**
+- Analyze or work with large datasets.
+  
+   _Example:_ "Run a shell command to extract data from a database and process it using scripts."
+
+---
+
+### **6. Environment Setup**
+- Assist with configuring tools, settings, databases, or code environments via scripts or commands.
+  
+   _Example:_ "Generate Docker configuration files and run Docker commands to build a container."
+
+---
+
+### **7. Automation**
+- Write and execute automation scripts for repetitive tasks.
+  
+   _Example:_ "Create a Python automation script to organize system files into separate folders."
+
+---
+
+### **8. Programming Assistance**
+- Help generate code in various programming languages tailored to your requirements.
+  
+   _Example:_ "Create a Java program that calculates interest on loans."
+
+---
